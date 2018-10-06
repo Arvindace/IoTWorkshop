@@ -45,6 +45,5 @@ void callIFTTT(){
 void loop() {
  
  
-  delay(30000);  //Send a request every 30 seconds
  
 }
